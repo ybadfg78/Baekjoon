@@ -23,4 +23,5 @@ Console.WriteLine("( 0 )\"\"\"\\");
 Console.WriteLine("|\"^\"`    |");
 Console.WriteLine("||_/=\\\\__|");
 이런 방법도 가능하네?
+-> 코드 절약
 */
